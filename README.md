@@ -1,8 +1,8 @@
-# (Application Name)
+# functional_plant
 
-#### (Brief Description of Application)
+#### practice with functional programming and hadling state
 
-#### By (Your Name Here)
+#### By Christopher Davila
 
 ## Technologies Used
 
